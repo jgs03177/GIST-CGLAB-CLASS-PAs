@@ -1,0 +1,29 @@
+[submodule "pa1-jgs03177/extern/glfw"]
+	path = pa1-jgs03177/extern/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "pa1-jgs03177/extern/glm"]
+	path = pa1-jgs03177/extern/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "pa1-jgs03177/extern/glad"]
+	path = pa1-jgs03177/extern/glad
+	url = https://github.com/Dav1dde/glad.git
+
+[submodule "pa2-jgs03177/extern/glfw"]
+	path = pa2-jgs03177/extern/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "pa2-jgs03177/extern/glm"]
+	path = pa2-jgs03177/extern/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "pa2-jgs03177/extern/glad"]
+	path = pa2-jgs03177/extern/glad
+	url = https://github.com/Dav1dde/glad.git
+
+[submodule "pa3-jgs03177/extern/glfw"]
+	path = pa3-jgs03177/extern/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "pa3-jgs03177/extern/glm"]
+	path = pa3-jgs03177/extern/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "pa3-jgs03177/extern/glad"]
+	path = pa3-jgs03177/extern/glad
+	url = https://github.com/Dav1dde/glad.git
